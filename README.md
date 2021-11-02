@@ -5,7 +5,7 @@
 Update
 ---
 - **2019.02.25**：感谢大家的关注，但其实这些笔记的价值并没有那么大，很多内容已经年久失修；本人也已经毕业工作，不再有那么多的时间继续维护，大家酌情参考。
-- **2021.10.09**：用进废退:joy:，大家共勉，[@studies.github](https://github.com/imhuay/studies)
+- **2021.10.09**：用进废退:joy:，大家共勉，这是新的笔记地址：[@studies.github](https://github.com/imhuay/studies)
 
 RoadMap
 ---
